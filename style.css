@@ -1,0 +1,11 @@
+.top{
+    background-color: lightgrey
+}
+.box{
+    width: 200px;
+    height: 200px;
+}
+.box img{
+    width: 35%;
+    height: auto;
+}
